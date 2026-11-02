@@ -7,5 +7,48 @@
    "createdAt": "2026-11-02T07:17:14.502Z"
   }
  ],
- "photos": []
+ "photos": [
+  {
+   "id": "mvyxf15i-4b1f94",
+   "path": "photos/a-mvyxetuw-xgezab/mvyxf15i-4b1f94.jpg",
+   "thumb": "thumbs/a-mvyxetuw-xgezab/mvyxf15i-4b1f94.jpg",
+   "sha": "3caf0407d33984c7bd30fea47bb62c9d1ff1488a",
+   "tsha": "e30e30013512453df684974019e7d389d6967d1c",
+   "w": 2560,
+   "h": 1707,
+   "size": 40028,
+   "name": "t0.jpg",
+   "takenAt": null,
+   "uploadedAt": "2026-11-02T07:17:23.144Z",
+   "album": "a-mvyxetuw-xgezab"
+  },
+  {
+   "id": "mvyxf2q1-wxy6tr",
+   "path": "photos/a-mvyxetuw-xgezab/mvyxf2q1-wxy6tr.jpg",
+   "thumb": "thumbs/a-mvyxetuw-xgezab/mvyxf2q1-wxy6tr.jpg",
+   "sha": "0352622895cb50a298bec97989525d0fdb1ffaa2",
+   "tsha": "663552a44b594330037a0b8183a13751e23f59ee",
+   "w": 1477,
+   "h": 2560,
+   "size": 38113,
+   "name": "t1.jpg",
+   "takenAt": null,
+   "uploadedAt": "2026-11-02T07:17:25.064Z",
+   "album": "a-mvyxetuw-xgezab"
+  },
+  {
+   "id": "mvyxf47q-emju0o",
+   "path": "photos/a-mvyxetuw-xgezab/mvyxf47q-emju0o.jpg",
+   "thumb": "thumbs/a-mvyxetuw-xgezab/mvyxf47q-emju0o.jpg",
+   "sha": "d85f6078c145e0a3f49f1485d3d8381d37eca2bc",
+   "tsha": "8cf5ab91513115c91a8f1d914afad0fe3b4487fb",
+   "w": 2560,
+   "h": 1707,
+   "size": 38411,
+   "name": "t2.jpg",
+   "takenAt": null,
+   "uploadedAt": "2026-11-02T07:17:27.064Z",
+   "album": "a-mvyxetuw-xgezab"
+  }
+ ]
 }
