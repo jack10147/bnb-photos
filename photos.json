@@ -1,1 +1,38 @@
-{"version":1,"photos":[]}
+{
+ "version": 1,
+ "photos": [
+  {
+   "id": "mvyxaelg-ygddon",
+   "path": "photos/2026-11/mvyxaelg-ygddon.jpg",
+   "thumb": "thumbs/2026-11/mvyxaelg-ygddon.jpg",
+   "w": 2560,
+   "h": 1707,
+   "size": 40028,
+   "name": "t0.jpg",
+   "takenAt": null,
+   "uploadedAt": "2026-11-02T07:13:47.143Z"
+  },
+  {
+   "id": "mvyxag2s-4stuuk",
+   "path": "photos/2026-11/mvyxag2s-4stuuk.jpg",
+   "thumb": "thumbs/2026-11/mvyxag2s-4stuuk.jpg",
+   "w": 1477,
+   "h": 2560,
+   "size": 38113,
+   "name": "t1.jpg",
+   "takenAt": null,
+   "uploadedAt": "2026-11-02T07:13:49.143Z"
+  },
+  {
+   "id": "mvyxahmb-639p98",
+   "path": "photos/2026-11/mvyxahmb-639p98.jpg",
+   "thumb": "thumbs/2026-11/mvyxahmb-639p98.jpg",
+   "w": 2560,
+   "h": 1707,
+   "size": 38411,
+   "name": "t2.jpg",
+   "takenAt": null,
+   "uploadedAt": "2026-11-02T07:13:50.898Z"
+  }
+ ]
+}
