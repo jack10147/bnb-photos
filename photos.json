@@ -1,4 +1,11 @@
 {
  "version": 1,
+ "albums": [
+  {
+   "id": "a-mvyxetuw-xgezab",
+   "name": "Тест-альбом",
+   "createdAt": "2026-11-02T07:17:14.502Z"
+  }
+ ],
  "photos": []
 }
