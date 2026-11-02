@@ -38,8 +38,8 @@
   },
   {
    "id": "mvyxf47q-emju0o",
-   "path": "photos/a-mvyxetuw-xgezab/mvyxf47q-emju0o.jpg",
-   "thumb": "thumbs/a-mvyxetuw-xgezab/mvyxf47q-emju0o.jpg",
+   "path": "photos/unsorted/mvyxf47q-emju0o.jpg",
+   "thumb": "thumbs/unsorted/mvyxf47q-emju0o.jpg",
    "sha": "d85f6078c145e0a3f49f1485d3d8381d37eca2bc",
    "tsha": "8cf5ab91513115c91a8f1d914afad0fe3b4487fb",
    "w": 2560,
@@ -48,7 +48,7 @@
    "name": "t2.jpg",
    "takenAt": null,
    "uploadedAt": "2026-11-02T07:17:27.064Z",
-   "album": "a-mvyxetuw-xgezab"
+   "album": null
   }
  ]
 }
