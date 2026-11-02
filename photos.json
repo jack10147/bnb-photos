@@ -1,5 +1,11 @@
 {
  "version": 1,
- "albums": [],
+ "albums": [
+  {
+   "id": "a-mvyyerpd-jagyd9",
+   "name": "pin",
+   "createdAt": "2026-11-02T07:45:09.726Z"
+  }
+ ],
  "photos": []
 }
