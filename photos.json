@@ -1,16 +1,4 @@
 {
  "version": 1,
- "photos": [
-  {
-   "id": "mvyxaelg-ygddon",
-   "path": "photos/2026-11/mvyxaelg-ygddon.jpg",
-   "thumb": "thumbs/2026-11/mvyxaelg-ygddon.jpg",
-   "w": 2560,
-   "h": 1707,
-   "size": 40028,
-   "name": "t0.jpg",
-   "takenAt": null,
-   "uploadedAt": "2026-11-02T07:13:47.143Z"
-  }
- ]
+ "photos": []
 }
